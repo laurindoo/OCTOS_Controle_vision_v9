@@ -6,6 +6,7 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include "fonts.h"							//---INCLUDES DISPLAY
+#include "math.h"							//---INCLUDES DISPLAY
 
 
 char *String_voltar;

@@ -28,6 +28,7 @@ U8GLIB/Src/Display.o: ../U8GLIB/Src/Display.c \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h \
  ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h \
+ ../Core/Inc/estruturas.h ../Core/Inc/main.h ../Core/Inc/defines.h \
  C:/Users/LucasLaurindo/Documents/ENGENHARIA/PRESSOR/Workspace_current/OCTOS_Controle_VISION_v9/U8GLIB/Inc/u8g_com_arm_stm32.h \
  C:/Users/LucasLaurindo/Documents/ENGENHARIA/PRESSOR/Workspace_current/OCTOS_Controle_VISION_v9/U8GLIB/Inc/u8g.h \
  C:/Users/LucasLaurindo/Documents/ENGENHARIA/PRESSOR/Workspace_current/OCTOS_Controle_VISION_v9/U8GLIB/Inc/fonts.h
@@ -61,6 +62,9 @@ C:/Users/LucasLaurindo/Documents/ENGENHARIA/PRESSOR/Workspace_current/OCTOS_Cont
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_tim_ex.h:
 ../Drivers/STM32F1xx_HAL_Driver/Inc/stm32f1xx_hal_uart.h:
+../Core/Inc/estruturas.h:
+../Core/Inc/main.h:
+../Core/Inc/defines.h:
 C:/Users/LucasLaurindo/Documents/ENGENHARIA/PRESSOR/Workspace_current/OCTOS_Controle_VISION_v9/U8GLIB/Inc/u8g_com_arm_stm32.h:
 C:/Users/LucasLaurindo/Documents/ENGENHARIA/PRESSOR/Workspace_current/OCTOS_Controle_VISION_v9/U8GLIB/Inc/u8g.h:
 C:/Users/LucasLaurindo/Documents/ENGENHARIA/PRESSOR/Workspace_current/OCTOS_Controle_VISION_v9/U8GLIB/Inc/fonts.h:

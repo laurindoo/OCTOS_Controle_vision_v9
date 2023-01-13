@@ -57,6 +57,11 @@ void Criar_tela(TELAS_Status LINGUA, char ** TEXTO);
 #define TELA_FALTA_CAL_MIN				33
 #define TELA_FALTA_CAL_MAX				34
 
+//STATES IDIOMAS
+#define EN 0
+#define PT 1
+#define ES 2
+
 /*--DEFINES--*/
 
 uint8_t Inicia_display(uint8_t Idioma);
